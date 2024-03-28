@@ -1,0 +1,38 @@
+.exp-main-div{
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.exp-name{
+    font-size: 32px;
+    color: #000000;
+    width: fit-content;
+    height: fit-content;
+    padding-top: 10px;
+    border-bottom: 2px solid red;
+}
+.experience-info{
+    font-size: 20px;
+}
+
+
+
+.exp-role{
+  font-size: 32px;
+  flex: 1;
+  font-weight: bold;
+}
+
+.time-line-exp{
+    font-size: 15px;
+    margin: 10px;
+    color: #000000;
+}
+.exp-company{
+    color: #3300FF;
+    font-size: 32px;
+    font-weight: bold;
+}

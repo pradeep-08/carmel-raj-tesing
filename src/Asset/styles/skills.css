@@ -1,0 +1,85 @@
+.skills-main-div{
+    height: 700px;
+    background-color: #4BB776;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.skills-decription{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.intro-description{
+    color: #FFF;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 3%;
+    
+}
+.intro-des-2{
+    font-size: 20px;
+    font-weight: bold;
+    width: 50%;
+}
+
+.skills-second-main-div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  
+ 
+}
+.skills-second-div{
+    height: 800px;
+    width: 100%;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    
+}
+
+.skills-second-child-1{
+    height: 600px;
+    width: 400px;
+    background-color: #FFF;
+    border-radius: 15px;
+}
+
+.skillsimage{
+    width: 25%;
+    border-radius: 15px;
+}
+
+.skills-second-child-1{
+   font-size: 20px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bold;
+   box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+
+}
+.skills-second-content{
+    margin: 15%;
+    cursor: pointer;
+}
+.skills-second-content:hover{
+    text-decoration: underline blue;
+    font-size: 18px;
+}
+.Skills-name{
+    font-size: 32px;
+    color: #FFF;
+    position: absolute;
+    padding-top: 10px;
+    border-bottom: 2px solid red;
+}
+.Skills-name:hover{
+    font-size: 30px;
+    cursor: pointer;
+}
