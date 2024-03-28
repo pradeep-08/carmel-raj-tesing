@@ -10,7 +10,7 @@ function Intro() {
   return <>
         <div className="main-div-intro">
           <div className="intro-div-1">
-             <div className="div-role">Android,Backend Developer</div>
+             <div className="div-role">Backend Developer</div>
                <img className='intro-logo-mini-3' width="44" height="44" src="https://img.icons8.com/external-bearicons-outline-color-bearicons/64/external-APK-file-extension-bearicons-outline-color-bearicons.png" alt="external-APK-file-extension-bearicons-outline-color-bearicons"/>
                 <img className='intro-logo-image' src={IntroLogo} alt="" />
                   <div className="main-name">
